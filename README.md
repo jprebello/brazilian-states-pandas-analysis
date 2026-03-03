@@ -1,4 +1,4 @@
-# Mini estudo socioeconômico: Educação básica x Qualidade de vida nos estados brasileiros
+# Mini Estudo Socioeconômico: Educação Básica x Qualidade de Vida nos Estados Brasileiros
 
 ## Base de Dados
 - **Descrição:** Conjunto de dados contendo informações socioeconômicas sobre os 27 estados brasileiros.
